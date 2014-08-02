@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turismo La Paz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="turLaPaz">Turismo La Paz</string>
+    <string name="nom_mod">MUSEOS</string>
+    <string name="lp">La Paz</string>
+
+</resources>
